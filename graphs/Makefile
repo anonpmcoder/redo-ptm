@@ -30,62 +30,50 @@ BINARIES = \
     bin/pq-ll-enq-deq-redoopt \
 	bin/psps-integer-ofwf \
 	bin/pset-hash-1k-ofwf \
-	bin/pset-hash-10k-ofwf \
 	bin/pset-hash-1m-ofwf \
 	bin/pset-ll-1k-ofwf \
 	bin/pset-ll-10k-ofwf \
 	bin/pset-tree-1k-ofwf \
-	bin/pset-tree-10k-ofwf \
 	bin/pset-tree-1m-ofwf \
 	bin/pset-skiplist-1m-ofwf \
 	bin/pset-tree-1m-dedicated-ofwf \
 	bin/psps-integer-cxptm \
 	bin/pset-hash-1k-cxptm \
-	bin/pset-hash-10k-cxptm \
 	bin/pset-hash-1m-cxptm \
 	bin/pset-ll-1k-cxptm \
 	bin/pset-ll-10k-cxptm \
 	bin/pset-tree-1k-cxptm \
-	bin/pset-tree-10k-cxptm \
 	bin/pset-tree-1m-cxptm \
 	bin/pset-skiplist-1m-cxptm \
 	bin/pset-tree-1m-dedicated-cxptm \
 	bin/psps-integer-redo \
 	bin/pset-hash-1k-redo \
-	bin/pset-hash-10k-redo \
 	bin/pset-hash-1m-redo \
 	bin/pset-ll-1k-redo \
 	bin/pset-ll-10k-redo \
 	bin/pset-tree-1k-redo \
-	bin/pset-tree-10k-redo \
 	bin/pset-tree-1m-redo \
 	bin/pset-skiplist-1m-redo \
 	bin/pset-tree-1m-dedicated-redo \
 	bin/psps-integer-redotimed \
 	bin/pset-hash-1k-redotimed \
-	bin/pset-hash-10k-redotimed \
 	bin/pset-hash-1m-redotimed \
 	bin/pset-ll-1k-redotimed \
 	bin/pset-ll-10k-redotimed \
 	bin/pset-tree-1k-redotimed \
-	bin/pset-tree-10k-redotimed \
 	bin/pset-tree-1m-redotimed \
 	bin/pset-skiplist-1m-redotimed \
 	bin/pset-tree-1m-dedicated-redotimed \
 	bin/pset-ll-1k-cxpuc \
 	bin/pset-hash-1k-cxpuc \
-	bin/pset-hash-10k-cxpuc \
 	bin/pset-hash-1m-cxpuc \
 	bin/pset-ll-10k-cxpuc \
 	bin/pset-tree-1k-cxpuc \
-	bin/pset-tree-10k-cxpuc \
 	bin/pset-tree-1m-cxpuc \
 	bin/pq-ll-enq-deq-cxpuc \
 	bin/pset-tree-1m-dedicated-cxpuc \
 	bin/psps-integer-redoopt \
-	bin/pset-hash-10k-redoopt \
 	bin/pset-hash-1m-redoopt \
-	bin/pset-tree-10k-redoopt \
 	bin/pset-tree-1m-redoopt \
 	bin/pset-hash-1k-redoopt \
 	bin/pset-tree-1k-redoopt \
