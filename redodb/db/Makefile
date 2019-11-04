@@ -20,7 +20,6 @@ MYDEPS = \
 	common/pfences.h \
 	common/ThreadRegistry.hpp \
 	common/ThreadRegistry.cpp \
-	ptms/rwlocks/CRWWPSpinLock.hpp \
 	ptms/redo/Redo.hpp \
 	ptms/redo/Redo.cpp \
 	ptms/redotimed/RedoTimed.hpp \
